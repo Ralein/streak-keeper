@@ -1,0 +1,42 @@
+name: 🔥 Daily Streak Commit
+
+on:
+  schedule:
+    # Runs at 18:30 UTC = midnight IST (12:30 AM) every day
+    - cron: "30 18 * * *"
+
+  # Allows manual trigger from GitHub UI or mobile app
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: "Why are you triggering manually?"
+        required: false
+        default: "Manual streak commit 🚀"
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 🔥 Run streak-keeper
+        run: python commit.py
+
+      - name: 📦 Commit & Push
+        run: |
+          git config user.name "streak-keeper[bot]"
+          git config user.email "streak-keeper@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "🔥 streak: $(date +'%Y-%m-%d') — keeping it alive"
+          git push
