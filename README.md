@@ -9,7 +9,7 @@
 | **Total Days** | 2 |
 | **Last Active** | 2026-06-05 (Friday) |
 | **Today's Mood** | 🔥 |
-| **Last Quote** | *"The most disastrous thing that you can ever learn is your first programming language."* — Alan Kay |
+| **Last Quote** | *"The best time to plant a tree was 20 years ago. The second best time is now."* — Chinese Proverb |
 
 ## Streak Grid (last 30 days)
 🟩🟩
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-06-05 at 13:20:34_
+_Last updated: 2026-06-05 at 16:26:29_
