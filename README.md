@@ -6,13 +6,13 @@
 
 | | |
 |---|---|
-| **Total Days** | 4 |
-| **Last Active** | 2026-06-07 (Sunday) |
-| **Today's Mood** | 🎯 |
-| **Last Quote** | *"The secret of getting ahead is getting started."* — Mark Twain |
+| **Total Days** | 5 |
+| **Last Active** | 2026-06-08 (Monday) |
+| **Today's Mood** | ✨ |
+| **Last Quote** | *"You miss 100% of the shots you don't take."* — Wayne Gretzky |
 
 ## Streak Grid (last 30 days)
-🟩🟩🟩🟩
+🟩🟩🟩🟩🟩
 
 ## How it works
 - A GitHub Action runs **5 times a day** (Morning, Afternoon, Evening, Night, and Midnight IST)
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-06-07 at 22:20:37_
+_Last updated: 2026-06-08 at 02:15:47_
