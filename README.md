@@ -8,8 +8,8 @@
 |---|---|
 | **Total Days** | 5 |
 | **Last Active** | 2026-06-08 (Monday) |
-| **Today's Mood** | ✨ |
-| **Last Quote** | *"You miss 100% of the shots you don't take."* — Wayne Gretzky |
+| **Today's Mood** | 🤔 |
+| **Last Quote** | *"Debugging is twice as hard as writing the code."* — Brian Kernighan |
 
 ## Streak Grid (last 30 days)
 🟩🟩🟩🟩🟩
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-06-08 at 02:15:47_
+_Last updated: 2026-06-08 at 13:56:52_
