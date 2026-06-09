@@ -8,8 +8,8 @@
 |---|---|
 | **Total Days** | 6 |
 | **Last Active** | 2026-06-09 (Tuesday) |
-| **Today's Mood** | 📚 |
-| **Last Quote** | *"Make it work, make it right, make it fast."* — Kent Beck |
+| **Today's Mood** | 🌱 |
+| **Last Quote** | *"Done is better than perfect."* — Sheryl Sandberg |
 
 ## Streak Grid (last 30 days)
 🟩🟩🟩🟩🟩🟩
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-06-09 at 19:27:51_
+_Last updated: 2026-06-09 at 23:03:30_
