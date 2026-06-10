@@ -9,7 +9,7 @@
 | **Total Days** | 7 |
 | **Last Active** | 2026-06-10 (Wednesday) |
 | **Today's Mood** | 💪 |
-| **Last Quote** | *"You miss 100% of the shots you don't take."* — Wayne Gretzky |
+| **Last Quote** | *"Consistency is the true foundation of trust."* — Roy T. Bennett |
 
 ## Streak Grid (last 30 days)
 🟩🟩🟩🟩🟩🟩🟩
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-06-10 at 20:02:25_
+_Last updated: 2026-06-10 at 23:43:25_
