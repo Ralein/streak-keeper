@@ -9,7 +9,7 @@
 | **Total Days** | 8 |
 | **Last Active** | 2026-06-11 (Thursday) |
 | **Today's Mood** | 🎉 |
-| **Last Quote** | *"Done is better than perfect."* — Sheryl Sandberg |
+| **Last Quote** | *"Small daily improvements over time lead to stunning results."* — Robin Sharma |
 
 ## Streak Grid (last 30 days)
 🟩🟩🟩🟩🟩🟩🟩🟩
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-06-11 at 17:22:18_
+_Last updated: 2026-06-11 at 20:31:31_
