@@ -8,8 +8,8 @@
 |---|---|
 | **Total Days** | 10 |
 | **Last Active** | 2026-06-13 (Saturday) |
-| **Today's Mood** | 🚀 |
-| **Last Quote** | *"Simplicity is the soul of efficiency."* — Austin Freeman |
+| **Today's Mood** | 🧠 |
+| **Last Quote** | *"Done is better than perfect."* — Sheryl Sandberg |
 
 ## Streak Grid (last 30 days)
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-06-13 at 15:40:28_
+_Last updated: 2026-06-13 at 18:30:37_
