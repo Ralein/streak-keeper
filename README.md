@@ -8,8 +8,8 @@
 |---|---|
 | **Total Days** | 14 |
 | **Last Active** | 2026-06-17 (Wednesday) |
-| **Today's Mood** | 💡 |
-| **Last Quote** | *"You miss 100% of the shots you don't take."* — Wayne Gretzky |
+| **Today's Mood** | 🧠 |
+| **Last Quote** | *"The most disastrous thing that you can ever learn is your first programming language."* — Alan Kay |
 
 ## Streak Grid (last 30 days)
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-06-17 at 14:09:40_
+_Last updated: 2026-06-17 at 17:29:47_
