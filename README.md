@@ -8,8 +8,8 @@
 |---|---|
 | **Total Days** | 18 |
 | **Last Active** | 2026-06-21 (Sunday) |
-| **Today's Mood** | 📚 |
-| **Last Quote** | *"It always seems impossible until it's done."* — Nelson Mandela |
+| **Today's Mood** | 💡 |
+| **Last Quote** | *"You don't have to be great to start, but you have to start to be great."* — Zig Ziglar |
 
 ## Streak Grid (last 30 days)
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-06-21 at 18:50:31_
+_Last updated: 2026-06-21 at 22:32:37_
