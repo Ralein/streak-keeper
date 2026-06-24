@@ -8,8 +8,8 @@
 |---|---|
 | **Total Days** | 21 |
 | **Last Active** | 2026-06-24 (Wednesday) |
-| **Today's Mood** | 📚 |
-| **Last Quote** | *"You don't have to be great to start, but you have to start to be great."* — Zig Ziglar |
+| **Today's Mood** | 💪 |
+| **Last Quote** | *"Debugging is twice as hard as writing the code."* — Brian Kernighan |
 
 ## Streak Grid (last 30 days)
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-06-24 at 19:03:09_
+_Last updated: 2026-06-24 at 22:55:24_
