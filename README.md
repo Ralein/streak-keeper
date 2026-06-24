@@ -8,8 +8,8 @@
 |---|---|
 | **Total Days** | 21 |
 | **Last Active** | 2026-06-24 (Wednesday) |
-| **Today's Mood** | 💡 |
-| **Last Quote** | *"A ship in harbor is safe, but that's not what ships are for."* — John A. Shedd |
+| **Today's Mood** | 📚 |
+| **Last Quote** | *"You don't have to be great to start, but you have to start to be great."* — Zig Ziglar |
 
 ## Streak Grid (last 30 days)
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-06-24 at 15:59:33_
+_Last updated: 2026-06-24 at 19:03:09_
