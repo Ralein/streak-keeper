@@ -8,8 +8,8 @@
 |---|---|
 | **Total Days** | 25 |
 | **Last Active** | 2026-06-28 (Sunday) |
-| **Today's Mood** | ⚡ |
-| **Last Quote** | *"Debugging is twice as hard as writing the code."* — Brian Kernighan |
+| **Today's Mood** | 🧠 |
+| **Last Quote** | *"One of my most productive days was throwing away 1000 lines of code."* — Ken Thompson |
 
 ## Streak Grid (last 30 days)
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-06-28 at 12:42:32_
+_Last updated: 2026-06-28 at 15:39:50_
