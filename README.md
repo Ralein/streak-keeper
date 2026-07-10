@@ -8,8 +8,8 @@
 |---|---|
 | **Total Days** | 37 |
 | **Last Active** | 2026-07-10 (Friday) |
-| **Today's Mood** | 😎 |
-| **Last Quote** | *"Done is better than perfect."* — Sheryl Sandberg |
+| **Today's Mood** | 😤 |
+| **Last Quote** | *"Debugging is twice as hard as writing the code."* — Brian Kernighan |
 
 ## Streak Grid (last 30 days)
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩+
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-07-10 at 16:01:21_
+_Last updated: 2026-07-10 at 18:52:20_
