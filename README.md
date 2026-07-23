@@ -9,7 +9,7 @@
 | **Total Days** | 50 |
 | **Last Active** | 2026-07-23 (Thursday) |
 | **Today's Mood** | 😎 |
-| **Last Quote** | *"First, solve the problem. Then, write the code."* — John Johnson |
+| **Last Quote** | *"You miss 100% of the shots you don't take."* — Wayne Gretzky |
 
 ## Streak Grid (last 30 days)
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩+
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-07-23 at 18:24:44_
+_Last updated: 2026-07-23 at 22:25:21_
