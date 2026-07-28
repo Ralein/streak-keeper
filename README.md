@@ -6,16 +6,22 @@
 
 | | |
 |---|---|
-| **Total Days** | 55 |
-| **Last Active** | 2026-07-28 (Tuesday) |
+| **Total Days** | 56 |
+| **Last Active** | 2026-07-29 (Wednesday) |
 | **Today's Mood** | 🌱 |
-| **Last Quote** | *"Any fool can write code that a computer can understand."* — Martin Fowler |
+| **Last Quote** | *"The best time to plant a tree was 20 years ago. The second best time is now."* — Chinese Proverb |
 
 ## Streak Grid (last 30 days)
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩+
 
+## How it works
+- A GitHub Action runs **5 times a day** (Morning, Afternoon, Evening, Night, and Midnight IST)
+- It generates a daily log update with a quote, tasks, and stats for each run
+- Commits and pushes automatically → streak never breaks 🚀
+- You can also trigger it manually from your phone via GitHub Actions UI
 
-
+## Manual trigger
+Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-07-28 at 22:27:02_
+_Last updated: 2026-07-29 at 02:12:36_
