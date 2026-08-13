@@ -9,7 +9,7 @@
 | **Total Days** | 71 |
 | **Last Active** | 2026-08-13 (Thursday) |
 | **Today's Mood** | 📚 |
-| **Last Quote** | *"Stay hungry, stay foolish."* — Steve Jobs |
+| **Last Quote** | *"The only way to do great work is to love what you do."* — Steve Jobs |
 
 ## Streak Grid (last 30 days)
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩+
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-08-13 at 10:45:43_
+_Last updated: 2026-08-13 at 14:17:51_
