@@ -8,8 +8,8 @@
 |---|---|
 | **Total Days** | 79 |
 | **Last Active** | 2026-08-21 (Friday) |
-| **Today's Mood** | ⚡ |
-| **Last Quote** | *"Done is better than perfect."* — Sheryl Sandberg |
+| **Today's Mood** | 🔥 |
+| **Last Quote** | *"The secret of getting ahead is getting started."* — Mark Twain |
 
 ## Streak Grid (last 30 days)
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩+
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-08-21 at 09:37:04_
+_Last updated: 2026-08-21 at 13:31:49_
