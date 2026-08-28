@@ -8,8 +8,8 @@
 |---|---|
 | **Total Days** | 86 |
 | **Last Active** | 2026-08-28 (Friday) |
-| **Today's Mood** | 😎 |
-| **Last Quote** | *"First, solve the problem. Then, write the code."* — John Johnson |
+| **Today's Mood** | 💡 |
+| **Last Quote** | *"Debugging is twice as hard as writing the code."* — Brian Kernighan |
 
 ## Streak Grid (last 30 days)
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩+
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-08-28 at 05:59:17_
+_Last updated: 2026-08-28 at 09:08:39_
