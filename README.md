@@ -8,8 +8,8 @@
 |---|---|
 | **Total Days** | 89 |
 | **Last Active** | 2026-08-31 (Monday) |
-| **Today's Mood** | 🛠️ |
-| **Last Quote** | *"You don't have to be great to start, but you have to start to be great."* — Zig Ziglar |
+| **Today's Mood** | 📚 |
+| **Last Quote** | *"You miss 100% of the shots you don't take."* — Wayne Gretzky |
 
 ## Streak Grid (last 30 days)
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩+
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-08-31 at 15:27:03_
+_Last updated: 2026-08-31 at 20:42:27_
