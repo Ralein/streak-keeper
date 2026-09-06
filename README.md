@@ -8,8 +8,8 @@
 |---|---|
 | **Total Days** | 95 |
 | **Last Active** | 2026-09-06 (Sunday) |
-| **Today's Mood** | ✨ |
-| **Last Quote** | *"You miss 100% of the shots you don't take."* — Wayne Gretzky |
+| **Today's Mood** | 📚 |
+| **Last Quote** | *"Done is better than perfect."* — Sheryl Sandberg |
 
 ## Streak Grid (last 30 days)
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩+
@@ -24,4 +24,4 @@
 Go to **Actions → Daily Streak Commit → Run workflow** on GitHub.
 
 ---
-_Last updated: 2026-09-06 at 02:59:25_
+_Last updated: 2026-09-06 at 13:30:30_
